@@ -1,0 +1,10 @@
+/*  é criado essa pasta reset porque cada navegador tem seu MARGIN e PADDING entre outras configurações para cada navegador e isso é variaado de navegador para nevgador
+por isso é necessario criar a pasta reset e deixar tudo configurado tudo padronizado. */
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+outline: none;
+font-family: "Poppins", sans-serif;
+}
